@@ -3,7 +3,7 @@
 Here is craid's Git_Training2023 repository.
 
 ## **Install**
-how to clone repository.
+ターミナルでローカルの作業ディレクトリまで移動して、リポジトリをクローンしてください。
 ```
 cd $WORKDIR
 git clone　git@github.com:iwakiri0104/Git_Training2023.git
@@ -20,7 +20,7 @@ Gitflowは、Gitのブランチ管理と作業フローを効率化する方法�
 - 参考サイト
     - [Gitflow ワークフロー](https://www.atlassian.com/ja/git/tutorials/comparing-workflows/gitflow-workflow)
 
-## **開発課題の進め方**
+## **進め方**
 ### 1. 個人用の作業ブランチを作成する
 
 - ブランチ名
@@ -61,3 +61,15 @@ developmentブランチからfeatureブランチを作成してください。
 - featureブランチをremoteにpushすることができている
 - Developmentブランチに対してPull Requestを作成することができている
 - Pull Requestに対してコメントされた内容を元に修正をすることができている
+
+**完成後のイメージ**
+![完了後のイメージ](public_html/assets/imgs/sample.png "完了後のイメージ")
+
+## **参考サイト**
+基本的には自分で調べて進めてみてください。それでも詰まる場合は下記サイトを参考にしてください。
+
+- [1分でわかる!gitでのブランチの作り方とリモートに上げるまで!](https://www.atlassian.com/ja/git/tutorials/comparing-workflows/gitflow-workflow)
+- [【git】新規作成したブランチをgithubリポジトリへ反映する](https://pointsandlines.jp/env-tool/git-new-branch)
+- [【GitHub】プルリクエストしてみよう](https://futureys.tokyo/lets-create-pull-request-on-github/)
+
+**Good Luck!**
