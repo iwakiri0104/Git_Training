@@ -1,12 +1,12 @@
 
-# **Git_Training2023**
-Here is craid's Git_Training2023 repository.
+# **Git_Training**
+Here is craid's Git_Training repository.
 
 ## **Install**
 ターミナルでローカルの作業ディレクトリまで移動して、リポジトリをクローンしてください。
 ```
 cd $WORKDIR
-git clone　git@github.com:iwakiri0104/Git_Training2023.git
+git clone　git@github.com:iwakiri0104/Git_Training.git
 ```
 
 ## **目的**
@@ -26,7 +26,8 @@ Gitflowは、Gitのブランチ管理と作業フローを効率化する方法�
 - ブランチ名
     - feature/{日付}_{名前}　例) feature/20230411_Yamada
 
-developmentブランチからfeatureブランチを作成してください。
+development_{入社年度}ブランチからfeatureブランチを作成してください。
+例) development_2024
   　
   
 ### 2. 自己紹介文を記入する
@@ -50,7 +51,7 @@ developmentブランチからfeatureブランチを作成してください。
 - 必要なgit commandを使ってリモートへpushしてください
 
 ### 　4. developmentブランチへPRを作成
-- 作ったブランチをDevelopmentブランチへPR
+- 作ったブランチをdevelopment_{入社年度}ブランチへPRを作成
 
 ※Googleフォームで回答を提出後、作成していただいたPRに対してコメントで指示を出します。内容に従って修正をしていただき、その後再度pushしていただきます。
 
